@@ -1,0 +1,100 @@
+{
+  "skills": [
+    {
+      "skillName": "Angularjs",
+      "class": "devicon-angularjs-plain-wordmark"
+    },
+    {
+      "skillName": "React.js",
+      "class": "devicon-react-original"
+    },
+    {
+      "skillName": "Next.JS",
+      "class": "devicon-nextjs-plain"
+    },
+    {
+      "skillName": "Redux",
+      "class": "devicon-redux-original"
+    },
+    {
+      "skillName": "Javascript",
+      "class": "devicon-javascript-plain"
+    },
+    {
+      "skillName": "Typescript",
+      "class": "devicon-typescript-plain"
+    },
+    {
+      "skillName": "Node JS",
+      "class": "devicon-nodejs-plain-wordmark"
+    },
+    {
+      "skillName": "Angular",
+      "class": "devicon-angularjs-plain"
+    },
+    {
+      "skillName": "Axios",
+      "class": "devicon-axios-plain-wordmark"
+    },
+    {
+      "skillName": "Jest",
+      "class": "devicon-jest-plain"
+    },
+    {
+      "skillName": "HTML",
+      "class": "devicon-html5-plain"
+    },
+    {
+      "skillName": "CSS",
+      "class": "devicon-css3-plain"
+    },
+    {
+      "skillName": "Bootstrap",
+      "class": "devicon-bootstrap-plain"
+    },
+    {
+      "skillName": "Jquery",
+      "class": "devicon-jquery-plain"
+    },
+    {
+      "skillName": "Objective C",
+      "class": "devicon-objectivec-plain"
+    },
+    {
+      "skillName": "AWS",
+      "class": "devicon-amazonwebservices-plain-wordmark"
+    },
+    {
+      "skillName": "Babel",
+      "class": "devicon-babel-plain"
+    },
+    {
+      "skillName": "Github",
+      "class": "devicon-github-original"
+    },
+    {
+      "skillName": "Gitlab",
+      "class": "devicon-gitlab-plain"
+    },
+    {
+      "skillName": "Bitbucket",
+      "class": "devicon-bitbucket-original"
+    },
+    {
+      "skillName": "Trello",
+      "class": "devicon-trello-plain"
+    },
+    {
+      "skillName": "JIRA",
+      "class": "devicon-jira-plain"
+    },
+    {
+      "skillName": "Vercel",
+      "class": "devicon-vercel-original"
+    },
+    {
+      "skillName": "NPM",
+      "class": "devicon-npm-original-wordmark"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.sumanastech.com/",
+      "company": "Sumanas Technologies",
+      "title": "Software Developer",
+      "dateFrom": "November 2020",
+      "dateTo": "August 2025",
+      "info": [
+        "Designed and developed end-to-end full stack applications for healthcare, ecommerce, and AI-based clients using React.js and Node.js.",
+        "Developed reusable UI components with React.js and implemented state management using Redux and Context API.",
+        "Worked in Agile/Scrum environments, actively contributing to sprint planning, estimation, and retrospectives."
+      ],
+      "stack": [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Express.js"
+      ],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #62cd70, #cfefd1)",
+      "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "featured_projects": [
+    {
+      "name": "AI Construction Takeoff",
+      "description": "AI-powered web application to automate construction takeoffs by analyzing architectural drawings for measurement, classification and annotation. Built interactive React UI and integrated Django APIs with OpenCV and PostgreSQL for AI-driven measurement and collaboration.",
+      "colour": "linear-gradient(to bottom right, rgb(0, 102, 204), rgb(0, 204, 153))",
+      "languages": [
+        { "name": "React.js", "color": "#5fd3f3" },
+        { "name": "Django", "color": "#092E20" },
+        { "name": "PostgreSQL", "color": "#336791" },
+        { "name": "OpenCV", "color": "#5C3EE8" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Hydrovac Industrial E-Commerce",
+      "description": "E-commerce platform for hydrovac and jetting equipment parts with vendor support, streamlined ordering and secure payments. Implemented responsive Next.js UI, Tailwind styling, Stripe integration and Prisma/PostgreSQL-driven product operations.",
+      "colour": "linear-gradient(to bottom right, rgb(35, 99, 255), rgb(56, 189, 248))",
+      "languages": [
+        { "name": "Next.js", "color": "#000" },
+        { "name": "Tailwind CSS", "color": "#38bdf8" },
+        { "name": "Redux", "color": "#764abc" },
+        { "name": "Prisma", "color": "#0ea5a4" },
+        { "name": "Stripe", "color": "#635bff" },
+        { "name": "PostgreSQL", "color": "#336791" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Driver Improvement Course LMS",
+      "description": "A 12-hour state-approved Advanced Driver Improvement (ADI) learning platform with interactive modules, assessments and certification tracking. Frontend in React with Laravel APIs and MySQL-backed progress tracking.",
+      "colour": "linear-gradient(to bottom right, rgb(237, 137, 54), rgb(249, 115, 22))",
+      "languages": [
+        { "name": "React.js", "color": "#5fd3f3" },
+        { "name": "Laravel", "color": "#ff2d20" },
+        { "name": "MySQL", "color": "#00758f" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "University Seating & Attendance System",
+      "description": "Web-based seating and attendance management for classrooms to support cohorting, contact tracing and safe operations. Built Vue.js seating UI and Laravel APIs for cohort and seat management with MySQL persistence.",
+      "colour": "linear-gradient(to bottom right, rgb(94, 234, 212), rgb(99, 102, 241))",
+      "languages": [
+        { "name": "Vue.js", "color": "#42b883" },
+        { "name": "Laravel", "color": "#ff2d20" },
+        { "name": "MySQL", "color": "#00758f" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Aviation E-Learning Platform",
+      "description": "FAA-focused e-learning platform for pilot training with video lessons, quizzes and mastery-based progress tracking. Implemented responsive Angular front-end, Laravel backend APIs and integrations with Infusionsoft/Keap for CRM/workflows.",
+      "colour": "linear-gradient(to bottom right, rgb(3, 169, 244), rgb(2, 136, 209))",
+      "languages": [
+        { "name": "Angular", "color": "#dd1b16" },
+        { "name": "Laravel", "color": "#ff2d20" },
+        { "name": "MySQL", "color": "#00758f" },
+        { "name": "Infusionsoft/Keap", "color": "#ff6f61" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Blockchain Supply-Chain Ecosystem",
+      "description": "Decentralized supply-chain platform with secure document exchange, IoT shipment tracking, member governance and a token-based B2B marketplace. Built React/Next frontends, Node/Express APIs, Hyperledger Fabric and Web3 integrations with MongoDB reporting.",
+      "colour": "linear-gradient(to bottom right, rgb(88, 101, 242), rgb(56, 189, 248))",
+      "languages": [
+        { "name": "React.js", "color": "#5fd3f3" },
+        { "name": "Next.js", "color": "#000" },
+        { "name": "Node.js", "color": "#68A063" },
+        { "name": "Hyperledger Fabric", "color": "#003a63" },
+        { "name": "Web3.js", "color": "#f16822" },
+        { "name": "MongoDB", "color": "#4DB33D" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Medizura",
+      "link": "https://www.medizura.com/",
+      "description": "Clinic and hospital operations platform for online appointments, video consultations, digital prescriptions and patient records. Built dynamic Angular frontends, Laravel REST APIs and Elasticsearch-backed search to optimize patient workflows.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85), rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Angular", "color": "#dd0031" },
+        { "name": "Laravel", "color": "#ff2d20" },
+        { "name": "MySQL", "color": "#00758f" },
+        { "name": "Elasticsearch", "color": "#005571" }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "PhotoFacet",
+      "link": "https://photofacet.com/",
+      "description": "PhotoFacet is a photo management application that organizes, edits, and shares images with AI-driven face recognition to simplify searching and management. Key features include seamless photo organization, AI face recognition, editing and sharing tools, and a smooth, efficient workflow for individuals and organizations.",
+      "colour": "linear-gradient(to bottom right, rgb(84, 150, 255), rgb(102, 201, 191))",
+      "languages": [
+        { "name": "Next.js", "color": "#000" },
+        { "name": "Tailwind CSS", "color": "#38bdf8" },
+        { "name": "Redux", "color": "#764abc" },
+        { "name": "Prisma", "color": "#0ea5a4" },
+        { "name": "PostgreSQL", "color": "#336791" }
+      ],
+      "type": "web"
+    }
+  ]
+}
