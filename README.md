@@ -1,7 +1,3 @@
-<!-- <a target="_" href="https://prabakaran.vercel.app/">
-  <img width="1470" alt="Prabakaran portfolio" src="https://github.com/prabakaran/anujsingh/assets/22232709/613d995c-0bf0-412e-919b-785530ce8015">
-</a> -->
-
 # Prabakaran — Software Developer
 
 >A focused, practical portfolio showcasing web and full‑stack projects, built with modern JavaScript frameworks and backend technologies. This repository contains the source for the personal portfolio site and a curated list of featured projects.
@@ -12,7 +8,10 @@ Highlights
 - Examples of integrations: Stripe payments, OpenCV-based services, Hyperledger, Elasticsearch and RESTful APIs.
 
 Live demo
-- Portfolio: https://prabakaran.vercel.app/  
+- Portfolio: https://praba0272-portfolio.vercel.app/  
+<a target="_" href="https://praba0272-portfolio.vercel.app/">
+  <img width="1470" alt="Prabakaran portfolio" src="https://github.com/Praba0272/prabakaran-portfolio/blob/main/src/images/portfolio.png">
+</a>
 
 Featured projects (selected)
 - AI Construction Takeoff — AI-powered plan analysis (React, Django, OpenCV, PostgreSQL)
